@@ -1,0 +1,17 @@
+{
+  "name": "user-data",
+  "version": "0.1.0",
+  "description": "Crea una clase de un usuario y la imprime",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "usuario",
+    "informacion",
+    "clase"
+  ],
+  "author": "Andrea Gutierrez",
+  "license": "ISC"
+}
